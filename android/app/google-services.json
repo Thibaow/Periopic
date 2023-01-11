@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940614547547",
+    "project_id": "excrudreact",
+    "storage_bucket": "excrudreact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940614547547:android:4239b0e1fe26f707bee77e",
+        "android_client_info": {
+          "package_name": "com.example.periopic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940614547547-om6o8fnmdb6b49pfnaac37an3aqf8gv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDZXhGEYJSWInuKg3dElsDv6jtiLkyN2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940614547547-om6o8fnmdb6b49pfnaac37an3aqf8gv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
